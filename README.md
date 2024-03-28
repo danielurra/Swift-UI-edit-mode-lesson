@@ -1,5 +1,13 @@
 # Swift-UI-edit-mode-lesson
-Swift UI edit mode lesson
+Used tools:<br>
+* if else
+* form
+* toobar
+* navigation title
+* slider
+* TextField
+* DatePicker
+  
 ## Grab the code - Edit file
 ```swift
 //
