@@ -1,10 +1,10 @@
 # Swift-UI-edit-mode-lesson
 Used tools:<br>
-* if else
-* form
-* toobar
-* navigation title
-* slider
+* If, Else
+* Form
+* Toobar
+* Navigation title
+* Slider
 * TextField
 * DatePicker
   
