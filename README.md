@@ -1,4 +1,4 @@
-# Swift-UI-edit-mode-lesson
+# SwiftUI Edit mode lesson
 Used tools:<br>
 * If, Else
 * Form
