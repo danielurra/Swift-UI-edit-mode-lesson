@@ -8,6 +8,8 @@ Used tools:<br>
 * TextField
 * DatePicker
   
+![edit](https://github.com/danielurra/Swift-UI-edit-mode-lesson/assets/51704179/13b4c7ce-6e87-48a5-88da-f98e25f5684c)
+
 ## Grab the code - Edit file
 ```swift
 //
